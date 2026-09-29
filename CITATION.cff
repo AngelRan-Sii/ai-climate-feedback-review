@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >-
+  If you use the ideas discussed in these companion materials,
+  please cite the review article listed in preferred-citation.
+title: "AI Climate Feedback Review: companion materials"
+authors:
+  - family-names: "Feng"
+    given-names: "Zhao-Ran"
+url: "https://github.com/AngelRan-Sii/ai-climate-feedback-review"
+license: CC-BY-4.0
+keywords:
+  - climate modeling
+  - artificial intelligence
+  - human-Earth system coupling
+  - behavior-emission-climate feedback
+  - aerosols
+  - review
+preferred-citation:
+  type: article
+  title: "AI-driven new-generation climate models: toward an explainable behavior-emission-climate feedback framework"
+  authors:
+    - family-names: "Feng"
+      given-names: "Zhao-Ran"
+    - family-names: "Feng"
+      given-names: "Kai-Rui"
+    - family-names: "Xu"
+      given-names: "Yuan"
+    - family-names: "Chao"
+      given-names: "Qing-Chen"
+  journal: "Climate Change Research"
+  year: 2026
+  doi: "10.12006/j.issn.1673-1719.2026.146"
+  url: "https://doi.org/10.12006/j.issn.1673-1719.2026.146"
+  languages:
+    - zh
