@@ -16,7 +16,7 @@ Companion materials for a review of how artificial intelligence can connect clim
 
 *Climate Change Research* (气候变化研究进展), 2026. **Accepted.** Article language: Chinese.
 
-DOI: [10.12006/j.issn.1673-1719.2026.146](https://doi.org/10.12006/j.issn.1673-1719.2026.146)
+DOI: [10.12006/j.issn.1673-1719.2026.146]([https://doi.org/10.12006/j.issn.1673-1719.2026.146](https://www.climatechange.cn/CN/10.12006/j.issn.1673-1719.2026.146))
 
 ## Overview
 
